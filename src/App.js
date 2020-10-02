@@ -1,8 +1,8 @@
 import React from 'react';
-import Table from './components/Table'
+import Table from './table'
 const App = () =>
   (<div style={{ width: 'max-content' }}>
-    <Table x={4} y={4} />
+    <Table x={26} y={50} />
   </div>)
 
 export default App;
